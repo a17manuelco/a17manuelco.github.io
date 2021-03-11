@@ -14,6 +14,6 @@ Como diría EA Sports
 
 Esta página fue inspirada como tarea de DAPW cursada en el [IES San Clemente](https://iessanclemente.net).
 
-![IES San Clemente](/images/ies.jpg)
+![IES San Clemente](/ies.jpg)
 
 [Visita mi otra página](http://github.com)
